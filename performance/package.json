@@ -1,0 +1,28 @@
+{
+  "name": "benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TruenoDB/benchmarks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "contributors": [
+    "Edgardo Barsallo <ebarsall@purdue.edu> (http://www.purdue.edu)",
+    "Servio Palacios <spalacio@purdue.edu> (http://www.purdue.edu)"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "neo4j-driver": "^1.1.0",
+    "sizeof": "^1.0.0",
+    "probability-distributions": "^0.8.5",
+    "uws": "^0.14.1",
+    "commander": "^2.9.0",
+    "stats-lite": "^2.0.4"
+  }
+}
