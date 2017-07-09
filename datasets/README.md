@@ -3,14 +3,15 @@
 ## Data files
 
 Otherwise indicated, the datasets used for the benchmarks are the ones available on their respective source (eg. SNAP). 
-On same cases, the data sets are curated version of the original version. Datasets included:
+On same cases, the data sets are curated version of the original version. 
+The following list shows all the datasets used for benchmarks:
 
-* Films Freebase Network
-* Citation Network
-* Biogrid Protein Interaction Network
-* Pokec Social Network
-* Twitter Follower Network
-* LDBC (Linked Data Benchmark Council) 
+* [Films Freebase Network](./FILMS.md)
+* [Citation Network](./CITATION.md)
+* [Biogrid Protein Interaction Network](./BIOGRID.md)
+* [Pokec Social Network](./POKEC.md)
+* [Twitter Follower Network](./TWITTER.md)
+* [LDBC (Linked Data Benchmark Council)](./LDBC.md)
 
 ## Neo4j
 
@@ -19,7 +20,7 @@ Guidelines to import data sets into Neo4j are provided. The datasets can be load
 
 ## Trueno
 
-Scrips and guidelines to import the data sets into Trueno are provided.
+Scripts and guidelines to import the data sets into Trueno are provided.
 
 ## SNAP (Stanford Large Dataset Collection)
 
