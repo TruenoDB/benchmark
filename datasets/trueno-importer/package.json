@@ -1,0 +1,15 @@
+{
+  "name": "trueno-importer",
+  "version": "1.0.0",
+  "description": "Scripting tool to create a Trueno Database from files",
+  "main": "trueno-import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ebarsallo",
+  "license": "Apache-2.0",
+  "dependencies": {
+  	"bluebird": "^3.4.0",
+    "uws": "^0.14.1"
+  }
+}
