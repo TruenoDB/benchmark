@@ -13,6 +13,19 @@ The following list shows all the datasets used for benchmarks:
 * [Twitter Follower Network](./TWITTER.md)
 * [LDBC (Linked Data Benchmark Council)](./LDBC.md)
 
+## Stats
+
+|  dataset   | nodes      | edges         |
+| ---------- | ---------- | ------------- |
+| films      | 32.7642    | 725.788       |
+| biogrid    | 15.034     | 301.685       |
+| citation   | 29.554     | 167.103       |
+| pokec      | 1.632.803  | 30.622.564    |
+| twitter    | 41.652.230 | 1.468.365.182 |
+| ldbc snb   | 9.152      | 180.832       |
+| ldbc graphalytics |  34.379 | 1.010.631 |
+
+
 ## Neo4j
 
 Guidelines to import data sets into Neo4j are provided. The datasets can be loaded into Neo4j using the import tool (`neo4j-admin`). If needed, data is parsed using `bash` scripting.
